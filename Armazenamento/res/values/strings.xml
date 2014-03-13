@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Armazenamento</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtExemp"> Exemplos de Armazenamento de Dados</string>
+    <string name="menuPref"> Consultar Preferências</string>
+    <string name="menuInterno"> Consultar Dados Interno</string>
+    <string name="menuExterno"> Consultar Dados Externo</string>
+    <string name="menuBd"> Consultar Banco de Dados</string>
+    <string name="btnGravar">Gravar</string>
+    <string name="btnPreferencias">Preferências </string>
+    <string name="btnInterno"> Interno</string>
+    <string name="btnExterno"> Externo</string>
+    <string name="btnBD"> Banco de Dados</string>
+    <string name="txtopc1">Opção 1</string>
+    <string name="txtopc2">Opção 2</string>
+    <string name="txtopc3">Opção 3</string>
+    <string name="txtDialogo">Escolha uma forma de Armazenamento abaixo</string>
+    <string name="txtNome">Nome completo</string>
+    <string name="txtIdade">Idade</string>
+    <string name="txtTelefone">Telefone</string>
+    <string name="txtSexo">Gênero</string>
+    <string name="txtMasc">Masculino</string>
+    <string name="txtFem">Feminino</string>
+    <string name="txtHobby">Hobby</string>
+    <string name="txtCinema">Cinema</string>
+    <string name="txtShopping">Shopping</string>
+    <string name="txtClube">Clube</string>
+    <string name="txtMusicas">Músicas</string>
+    <string name="txtEsportes">Esportes</string>
+    <string name="btnCarregar">Carregar</string>
+    <string name="txtTopoLista">Selecione um item</string>
+
+</resources>
