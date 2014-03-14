@@ -1,8 +1,7 @@
 Persistencia_Dados_Android
 ==========================
 
-Este projeto foi desenvolvido como forma de representação prática do conteúdo estudado,para elaboração de artigo 
-cientifíco para obtenção do título de Especialista no curso de Java, ministrado na Universidade Tecnológica Federal do Paraná, Campus Cornélio Procópio.
+Este projeto foi desenvolvido como forma de representação prática do conteúdo teórico e prático pesquisado, para elaboração de artigo cientifíco para obtenção do título de Especialista no curso de Java, ministrado na Universidade Tecnológica Federal do Paraná, Campus Cornélio Procópio, tendo a supervisão e as devidas orientações realizadas pelo Prof. Henrique Y. Shishido, Mestre desta Instituição de Ensino.
 
 Amostra
 =======
